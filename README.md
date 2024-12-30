@@ -1,7 +1,7 @@
 # Drew's Portfolio
 
 ## Projects 
-### Customer Churn Prediction
+### Customer Churn Prediction (Python)
 - [Customer Churn Prediction](https://github.com/drewbaker52/drewbaker52/blob/main/Customer_Churn_Prediction.ipynb)
 
 <!---
